@@ -27,7 +27,7 @@
    "Contract_Specialist": "John Sukcoilyer (35347)",
    "Approval_Date": "2023-01-24T05:54:23.756-08:00",
    "Spend_Category": "Dispute Resolution Fees (AC_97978)",
-   "Invoice_Amount": "720"                            
+   "Invoice_Amount": "777"                            
 },
 {
    "Supplier_s_Invoice_Number": "DISP-454366",             
@@ -56,7 +56,7 @@
    "Contract_Specialist": "John Sukcoilyer (35347)",
    "Approval_Date": "2023-01-24T05:54:23.756-08:00",
    "Spend_Category": "Dispute Resolution Fees (AC_97978)",
-   "Invoice_Amount": "820"                            
+   "Invoice_Amount": "888"                            
 },
 {
    "Supplier_s_Invoice_Number": "DISP-111111",             
@@ -85,7 +85,7 @@
    "Contract_Specialist": "John Sukcoilyer (35347)",
    "Approval_Date": "2023-01-24T05:54:23.756-08:00",
    "Spend_Category": "Dispute Resolution Fees (AC_97978)",
-   "Invoice_Amount": "820"                            
+   "Invoice_Amount": "999"                            
 },
 {
    "Supplier_s_Invoice_Number": "DISP-222222",             
@@ -114,10 +114,10 @@
    "Contract_Specialist": "John Sukcoilyer (35347)",
    "Approval_Date": "2023-01-24T05:54:23.756-08:00",
    "Spend_Category": "Dispute Resolution Fees (AC_97978)",
-   "Invoice_Amount": "820"                            
+   "Invoice_Amount": "555"                            
 },
 {
-   "Supplier_s_Invoice_Number": "DISP-3333333",             
+   "Supplier_s_Invoice_Number": "DISP-XXXXXXXX",             
    "Invoice_Creation_Date": "2023-01-24T02:38:11-08:00",
    "Company": "Steel Autonomy",
    "Balance_Due": "0",
@@ -143,7 +143,7 @@
    "Contract_Specialist": "John Sukcoilyer (35347)",
    "Approval_Date": "2023-01-24T05:54:23.756-08:00",
    "Spend_Category": "Dispute Resolution Fees (AC_97978)",
-   "Invoice_Amount": "820"                            
+   "Invoice_Amount": "999"                            
 }
 ]
 }
