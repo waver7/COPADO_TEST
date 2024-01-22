@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "lineNumber": 1,
+    "claimId": "23223M345601",
+    "serviceCode": "A0431",
+    "serviceDescription": "Amb svc air trnsprt 1 way rotary",
+    "chargedAmount": 42884.00,
+    "allowedAmount": 8261.44,
+    "inNetworkIndicator": "Y"
+  },
+  {
+    "id": "2",
+    "lineNumber": 2,
+    "claimId": "23223M345601",
+    "serviceCode": "A0436",
+    "serviceDescription": "Rotary wing air mileage-statut mile",
+    "chargedAmount": 5421.00,
+    "allowedAmount": 1055.73,
+    "inNetworkIndicator": "Y"
+  }
+  // ... Add more items as necessary
+]
