@@ -18,5 +18,15 @@
     "chargedAmount": 5421.00,
     "allowedAmount": 1055.73,
     "inNetworkIndicator": "Y"
+  },
+  {
+    "id": "3",
+    "lineNumber": 3,
+    "claimId": "23223M345603",
+    "serviceCode": "A0436",
+    "serviceDescription": "Sub-Rotary wing air mileage-statut mile",
+    "chargedAmount": 5421.00,
+    "allowedAmount": 1055.73,
+    "inNetworkIndicator": "Y"
   }
 ]
