@@ -1,32 +1,129 @@
-[
-  {
-    "id": "1",
-    "lineNumber": 1,
-    "claimId": "23223M345601",
-    "serviceCode": "A0431",
-    "serviceDescription": "NEW Amb svc air trnsprt 1 way rotary",
-    "chargedAmount": 42884.00,
-    "allowedAmount": 8261.44,
-    "inNetworkIndicator": "Y"
-  },
-  {
-    "id": "2",
-    "lineNumber": 2,
-    "claimId": "23223M345601",
-    "serviceCode": "A0436",
-    "serviceDescription": "Rotary wing air mileage-statut mile",
-    "chargedAmount": 5421.00,
-    "allowedAmount": 1055.73,
-    "inNetworkIndicator": "Y"
-  },
-  {
-    "id": "3",
-    "lineNumber": 3,
-    "claimId": "23223M345603",
-    "serviceCode": "A0436",
-    "serviceDescription": "Sub-Rotary wing air mileage-statut mile",
-    "chargedAmount": 5421.00,
-    "allowedAmount": 1055.73,
-    "inNetworkIndicator": "Y"
-  }
-]
+{
+    "claimIdentifier": "23223M345601",
+    "claimLine": [
+        {
+            "claimLineIdentifier": 1,
+            "claimLineServiceFromDate": "2023-08-05",
+            "claimLineServiceThroughDate": "2023-08-05",
+            "serviceCode": "A0431",
+            "serviceDescription": "Amb srvc air trnsprt 1 way rotary",
+            "serviceUnitCount": 1,
+            "claimLineChargeAmount": 42884.0,
+            "allowedAmount": 8261.44,
+            "coinsuranceAmount": 0.0,
+            "nonCoveredAmount": 0.0,
+            "remainingMemberExpenseAmount": 0.0,
+            "inNetworkIndicator": "Y",
+            "claimLineDiagnosis": [
+                {
+                    "diagnosisRank": 1,
+                    "diagnosisCode": "I21.4",
+                    "diagnosisDescription": "Non-ST elevation (NSTEMI) myocardial infarction"
+                },
+                {
+                    "diagnosisRank": 2,
+                    "diagnosisCode": "R06.00",
+                    "diagnosisDescription": "Dyspnea, unspecified"
+                },
+                {
+                    "diagnosisRank": 3,
+                    "diagnosisCode": "R06.82",
+                    "diagnosisDescription": "Tachypnea, not elsewhere classified"
+                },
+                {
+                    "diagnosisRank": 4,
+                    "diagnosisCode": "Z74.3",
+                    "diagnosisDescription": "Need for continuous supervision"
+                }
+            ],
+            "claimLineProvider": [
+                {
+                    "claimRoleTypeCode": "BILLPROV",
+                    "providerId": "UNK",
+                    "npi": "1598261224",
+                    "taxIdentifierNumber": "274267561",
+                    "proprietaryProviderNumber": "02EJN",
+                    "submittedProviderName": "APOLLO MEDFLIGHT AIRLINK"
+                },
+                {
+                    "claimRoleTypeCode": "SERVICING",
+                    "providerId": "02EJN001",
+                    "npi": "1598261224",
+                    "taxIdentifierNumber": "274267561",
+                    "proprietaryProviderNumber": "02EJN",
+                    "submittedProviderName": "APOLLO MEDFLIGHT LLC"
+                },
+                {
+                    "claimRoleTypeCode": "VENDOR",
+                    "providerId": "02EJN001",
+                    "npi": "1598261224",
+                    "taxIdentifierNumber": "274267561",
+                    "proprietaryProviderNumber": "02EJN",
+                    "submittedProviderName": "APOLLO MEDFLIGHT LLC"
+                }
+            ]
+        },
+        {
+            "claimLineIdentifier": 2,
+            "claimLineServiceFromDate": "2023-08-05",
+            "claimLineServiceThroughDate": "2023-08-05",
+            "serviceCode": "A0436",
+            "serviceDescription": "Rotary wing air mileage-statut mile",
+            "serviceUnitCount": 1,
+            "claimLineChargeAmount": 5421.0,
+            "allowedAmount": 1055.73,
+            "coinsuranceAmount": 0.0,
+            "nonCoveredAmount": 0.0,
+            "remainingMemberExpenseAmount": 0.0,
+            "inNetworkIndicator": "Y",
+            "claimLineDiagnosis": [
+                {
+                    "diagnosisRank": 1,
+                    "diagnosisCode": "I21.4",
+                    "diagnosisDescription": "Non-ST elevation (NSTEMI) myocardial infarction"
+                },
+                {
+                    "diagnosisRank": 2,
+                    "diagnosisCode": "R06.00",
+                    "diagnosisDescription": "Dyspnea, unspecified"
+                },
+                {
+                    "diagnosisRank": 3,
+                    "diagnosisCode": "R06.82",
+                    "diagnosisDescription": "Tachypnea, not elsewhere classified"
+                },
+                {
+                    "diagnosisRank": 4,
+                    "diagnosisCode": "Z74.3",
+                    "diagnosisDescription": "Need for continuous supervision"
+                }
+            ],
+            "claimLineProvider": [
+                {
+                    "claimRoleTypeCode": "BILLPROV",
+                    "providerId": "UNK",
+                    "npi": "1598261224",
+                    "taxIdentifierNumber": "274267561",
+                    "proprietaryProviderNumber": "02EJN",
+                    "submittedProviderName": "APOLLO MEDFLIGHT AIRLINK"
+                },
+                {
+                    "claimRoleTypeCode": "SERVICING",
+                    "providerId": "02EJN001",
+                    "npi": "1598261224",
+                    "taxIdentifierNumber": "274267561",
+                    "proprietaryProviderNumber": "02EJN",
+                    "submittedProviderName": "APOLLO MEDFLIGHT LLC"
+                },
+                {
+                    "claimRoleTypeCode": "VENDOR",
+                    "providerId": "02EJN001",
+                    "npi": "1598261224",
+                    "taxIdentifierNumber": "274267561",
+                    "proprietaryProviderNumber": "02EJN",
+                    "submittedProviderName": "APOLLO MEDFLIGHT LLC"
+                }
+            ]
+        }
+    ]
+}
