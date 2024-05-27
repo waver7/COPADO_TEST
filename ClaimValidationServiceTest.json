@@ -23,6 +23,8 @@
     "crossReferenceSccfNumber": "31120222711199200",
     "claimFormCode": "FCLTY",
     "claimStatusTypeCode": "01",
-    "lineOfBusinessCode": "ASO"
+    "lineOfBusinessCode": "ASO",
+    "itsClaimTypeCode": "HOST",
+    "displayedMemberId": "YPY11204893602"
   }
 }
