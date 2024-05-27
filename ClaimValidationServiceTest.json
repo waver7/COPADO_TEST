@@ -1,0 +1,28 @@
+{
+  "searchClaimsArgs": {
+    "memberId": "YPY11204893602",
+    "groupNumber": "14170742",
+    "itsSubscriberId": "AMR825575290",
+    "itsLocalPlanCode": "311",
+    "npi": "1609858729",
+    "federalTaxIdentifierNumber": "341650950",
+    "proprietaryProviderNumber": "00361",
+    "prprId": "0006934700001",
+    "fromServiceStartDate": "2022-02-01",
+    "throughServiceStartDate": "2022-03-01",
+    "fromServiceEndDate": "2022-04-01",
+    "throughServiceEndDate": "2022-05-01",
+    "receivedFromDate": "2022-02-01",
+    "receivedThroughDate": "2022-03-01",
+    "lastActionFromDate": "2022-02-01",
+    "lastActionThroughDate": "2022-03-01",
+    "claimIdentifier": "5003181964155",
+    "adjustedFromClaimIdentifier": "5003181964154",
+    "adjustedToClaimIdentifier": "5003181964156",
+    "sccfNumber": "38020200211402400",
+    "crossReferenceSccfNumber": "31120222711199200",
+    "claimFormCode": "FCLTY",
+    "claimStatusTypeCode": "01",
+    "lineOfBusinessCode": "ASO"
+  }
+}
